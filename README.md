@@ -1,4 +1,5 @@
-# Playwright
+# Playwright ![Playwright Icon](https://github.com/VikyRam/Playwright/assets/19380434/01a35eaf-d498-47fb-8a7f-b60f8e58d0f1)
+
 
 
 # Course Syllabus
