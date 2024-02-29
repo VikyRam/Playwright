@@ -1,4 +1,4 @@
-# Playwright <img src="https://github.com/VikyRam/Playwright/assets/19380434/aa247bee-bd6b-43ec-99a7-9d244ad8fcf4" width="200" height="90"> 
+# Playwright <img src="https://github.com/VikyRam/Playwright/assets/19380434/aa247bee-bd6b-43ec-99a7-9d244ad8fcf4" width="100" height="90"> 
 
 
 
